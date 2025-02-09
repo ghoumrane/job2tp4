@@ -1,6 +1,6 @@
 pipeline {
     environment {
-        registry = "vmehdighoumrane/job2tp4"
+        registry = "mehdighoumrane/job2tp4"
         registryCredential = 'docker-bbdc'
         dockerImage = ''
     }
